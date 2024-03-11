@@ -1,0 +1,26 @@
+
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarkakkar03/ReactPractice.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Sagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarkakkar03/ReactPractice/issues"
+  },
+  "homepage": "https://github.com/sagarkakkar03/ReactPractice#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
