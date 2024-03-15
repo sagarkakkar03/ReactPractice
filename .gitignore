@@ -1,5 +1,10 @@
-Lesson2/node_modules
-Lesson2/dist
-.parcel-cache
-Lesson3/node_modules
-Lesson3/dist
+
+/Lesson2/.parcel-cache
+/Lesson2/dist
+/Lesson2/node_modules
+
+/Lesson3/.parcel-cache
+/Lesson3/dist
+/Lesson3/node_modules
+/node_modules 
+/Lesson3/.cache

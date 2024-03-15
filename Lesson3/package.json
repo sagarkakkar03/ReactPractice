@@ -1,5 +1,31 @@
 {
+  "name": "lesson3",
+  "version": "1.0.0",
+  "main": "App.js",
+  "devDependencies": {
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "@babel/preset-react": "^7.23.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sagar",
+  "license": "ISC",
+  "description": "This is Food Villa app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarkakkar03/ReactPractice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sagarkakkar03/ReactPractice/issues"
+  },
+  "homepage": "https://github.com/sagarkakkar03/ReactPractice#readme",
   "dependencies": {
-    "parcel": "^2.12.0"
+    "A": "^0.0.1",
+    "parcel": "^2.12.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
